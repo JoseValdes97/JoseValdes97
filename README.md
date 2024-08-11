@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **I am passionate about applying statistical theory and methods to real-world problems. My areas of interest include generalized linear models (GLMs), multivariate analysis, and machine learning.**
 
-- 📫 How to reach me **jvaldesdunal.edu.co**
+- 📫 How to reach me **jvaldesd@unal.edu.co**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WBVUGXgRZ5kte9Wmxv8hcC_BMBqgYAy5/view](https://drive.google.com/file/d/1WBVUGXgRZ5kte9Wmxv8hcC_BMBqgYAy5/view)
 
