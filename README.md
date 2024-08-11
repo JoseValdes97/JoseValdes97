@@ -23,13 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/neofilos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neofilos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josé armando valdés domínguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé armando valdés domínguez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/josé armando valdes domínguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="josé armando valdes domínguez" height="30" width="40" /></a>
+<a href="https://x.com/neofilos_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neofilos" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/josé-armando-valdés-domínguez-b40739283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé armando valdés domínguez" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/josé armando valdes domínguez](https://stackoverflow.com/users/19855150/jose-armando-valdes-dominguez)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="josé armando valdes domínguez" height="30" width="40" /></a>
 <a href="https://kaggle.com/josevaldesdominguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="josevaldesdominguez" height="30" width="40" /></a>
 <a href="https://instagram.com/feynmando_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feynmando_" height="30" width="40" /></a>
-<a href="https://medium.com/jvaldesd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jvaldesd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/neófilos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neófilos" height="30" width="40" /></a>
+<a href="https://medium.com/me/stories/drafts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jvaldesd" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/neófilos](https://www.youtube.com/@neofilos1576)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neófilos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
